@@ -25,8 +25,8 @@ The PCB workshop provided hands-on experience in designing and fabricating print
 ## PCB Fabrication Results
 
 <p align="center">
-  <img src="components.png" width="400"/>
-  <img src="Etched-board.png" width="400"/>
+  <img src="components.jpeg" width="400"/>
+  <img src="Etched-board.jpeg" width="400"/>
 </p>
 
 <p align="center">
